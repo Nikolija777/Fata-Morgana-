@@ -9,3 +9,7 @@ The preparation phase of the competition consisted of investigating different ph
 I posted a report (which explains in detail the phenomenon and the procedure) and the code (with comments). However, everything is in Serbian language 😢
 
 So if you have any questions, feel free to text me :)
+
+## Problem formulation
+
+Fata Morgana is the name given to a particular form of mirage. A similar effect can be produced by shining a laser through a fluid with a refractive index gradient. Investigate the phenomenon.
